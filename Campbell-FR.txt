@@ -1,0 +1,7 @@
+
+The system shall provide email updates on trades and on saved items when trades are completed, items are shipped, and when the statuses of saved items change.
+
+The system shall provide value estimates for items in the closet based on retail and after sale price data.
+
+The system shall display available items matching given location, tags, and value.
+
