@@ -1,0 +1,5 @@
+As a new user, I want to select my item interests, so my suggested items are more relevant to my interests.
+ 
+As a user, I want to receive email notifications for items that I’ve traded, so that I know when my item will be shipped and delivered.
+
+As a user, I want to specify the name, description, quality, location, up to 10 pictures, and up to 10 tags for each item that I want to trade, so that other users can find and potentially trade for my items.
