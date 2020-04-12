@@ -1,0 +1,7 @@
+
+As a user, I want to find items I am looking for by selecting words and tags and by filtering on tags, quality, and location, so that I can easily find things that I want.
+
+As a user, I want my search results to prioritize listings by active users, so that I can maximize the chance of a trade.
+
+As a user, I want to input out how much my items are worth, so that I can be matched with items of a similar value.
+
