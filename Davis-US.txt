@@ -1,6 +1,6 @@
 
-As a user, I want to select items from a list of similarly valued items, so that I can exchange my item for one that provides better value to me.
+As a user, I want to swipe through similarly valued items to my inputted item(s), so that I can exchange my item(s) for another user’s item(s).
 
-As a user, I want to like items, so that I can display interest in an item without actually trading for it.
-
-As a user, I want to receive email notifications for items that I’ve traded, so that I know when my item will be shipped and delivered.
+As a user, I want to create a closet of items that I want to trade, so that I can potentially perform multi-item trades.
+ 
+As a user, I want to like items, so that I can keep track of items I’m interested in.
