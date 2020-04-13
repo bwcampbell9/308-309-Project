@@ -1,0 +1,7 @@
+
+As a user, I want to be able to see trades that are within a specified radius, so I can save on shipping fees.
+
+As a user, I want to require the other trader to have to input a tracking number, so I can be assured it was shipped to me.
+
+As a user, I want to specify contact information and see other user’s contact info, so that I can discuss certain items for trading.
+
