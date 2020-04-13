@@ -3,5 +3,5 @@ The system shall provide a zip-code based location filter between 5 and 500 mile
 
 The system shall require a USPS tracking number to mark a trade as shipped. The number will be sent to the other trader.
 
-The system will optionally be able to store and retrieve a user's email from a profile when requested.
+The system will optionally be able to store and retrieve a user's email from a profile when requested by another user.
 
