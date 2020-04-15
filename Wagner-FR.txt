@@ -1,0 +1,5 @@
+The system shall provide an option to like listed items.
+
+The system shall provide an option to save listed items.
+
+The system shall notify users with matched items and require that all involved users confirm the trade.
